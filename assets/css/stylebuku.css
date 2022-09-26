@@ -1,0 +1,61 @@
+body{
+    background: rgb(213, 213, 223);
+    color: rgb(12, 11, 6);
+    font-family: sans-serif;
+    font-size:15px;
+}
+
+#wrapper{
+    background: rgb(200, 182, 182);
+    width: 1100px;
+    margin: 20px auto;
+}
+
+#wrapper header{
+    background: #5a08cc;
+    padding: 20px;
+}
+
+#wrapper header hgroup{
+    float: left;
+    color: rgba(214, 10, 14, 0.907);
+}
+
+#wrapper header nav{ 
+    float: right;
+    margin-top: 50px;
+}
+
+#wrapper header nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper header nav ul li{
+    float: left;
+    list-style: none;
+}
+
+#wrapper header nav ul li a{
+    padding: 15px;
+    color: rgba(27, 3, 44, 0.592);
+    text-decoration: none;
+}
+
+.clear{
+    clear: both;
+}
+
+footer{
+    background: #2bc10e64;
+    padding: 20px;
+}
+
+footer a{
+    color: rgb(13, 129, 17);
+    text-decoration: none;
+}
+
+section{
+    padding: 20px;
+}
